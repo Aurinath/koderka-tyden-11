@@ -125,3 +125,14 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
 }
 
+.clanek {
+  display:grid;
+  grid-template-columns: 250px auto;
+  gap: 30px 50px;
+  margin: 30px;
+}
+
+.clanek img{
+  width: 100%;
+}
+
